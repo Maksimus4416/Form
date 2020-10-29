@@ -176,3 +176,7 @@ body {
             box-shadow: 0 4px 0 #2a0303;
   }
 }
+
+.options__label {
+  font-size: 18px;
+}
